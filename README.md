@@ -88,5 +88,32 @@ In FY23 and FY24, Scope 3 growth overwhelmed Scope 1+2 reductions, causing total
 
 ---
 
+## Recommendations
+
+Based on the findings of this analysis, the following actions are recommended for Infosys to strengthen its Net Zero 2030 trajectory:
+
+1. **Accelerate Scope 1+2 reduction pace immediately.** At current trajectory, Infosys needs to reduce Scope 1+2 emissions nearly 5x faster than FY26 performance to hit the 2030 target of 16,700 tCO₂e. Renewable energy procurement alone will be insufficient — direct emission reduction measures for owned facilities and fuel consumption must be prioritised.
+
+2. **Introduce a structured business travel policy with carbon budgets.** Business travel is the single largest Scope 3 category at 26.92% of total Scope 3 in FY26, having grown 160% since FY22. Introducing per-employee or per-business-unit carbon budgets for travel, alongside mandatory virtual-first meeting policies for domestic travel, would directly address the largest controllable Scope 3 source.
+
+3. **Develop an employee commute programme.** Employee commute emissions grew 1,165% between FY22 and FY26 — the fastest-growing emission source in Infosys's entire portfolio. Subsidised public transport, carpooling incentives, EV charging infrastructure at campuses, and expanded hybrid work options would reduce this category significantly.
+
+4. **Target 100% renewable electricity procurement by FY28.** Renewable energy share growth slowed to 4.29% in FY26 after averaging ~20% annually in prior years. The final 25% to full renewable coverage requires proactive long-term power purchase agreements (PPAs) and on-site solar expansion, particularly at high-consumption campuses like SIRA and Hyderabad SEZ.
+
+5. **Engage top suppliers on Scope 3 Category 1 emissions.** Purchased Goods and Services — newly added in FY26 at 14.56% of Scope 3 — represents a significant and growing category. Supplier ESG scorecards, procurement policies favouring low-carbon vendors, and supplier capacity building programmes would address this emerging risk.
+
+---
+
+## Limitations
+
+- Analysis is based entirely on publicly disclosed data. Metrics not reported by Infosys cannot be included or verified.
+- Emission factors and calculation methodologies may change between reporting years, affecting comparability.
+- Scope 3 figures for FY24 and FY25 were restated in the FY26 Data Book due to the addition of the Purchased Goods and Services category. Earlier Data Books show different figures for the same years.
+- Scope 2 emissions are reported on a market-based basis. Location-based figures are only available for FY26, limiting year-on-year location-based comparison.
+- Employee commute boundary expanded over the analysis period — earlier years cover fewer geographies, understating true commute emissions in FY22 and FY23.
+- This analysis assumes Infosys's reported data is accurate and has been verified by their external assurance providers.
+
+---
+
 ## About This Project
 Built as part of a self-directed ESG Data Analytics portfolio. Background includes a Master's in Sustainable Design and green building consulting experience across IGBC and GRIHA projects in India. LEED Green Associate certified.
