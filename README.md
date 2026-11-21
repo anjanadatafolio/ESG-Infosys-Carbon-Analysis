@@ -62,13 +62,13 @@ Renewable electricity share grew from 42.87% in FY22 to 75.66% in FY26. However 
 Infosys's renewable energy strategy drove Scope 2 per employee down by over 50% since FY22. However Scope 3 now represents over 80% of total emissions per employee — making travel, commute, and supply chain the next critical frontier for reduction.
 
 ### 5. Net Zero 2030 Target — At Serious Risk
-Infosys needs to reduce Scope 1+2 by a further 63.56% from FY26 levels to hit their 2030 target of 16,700 tCO₂e. With only 4 years remaining and FY26 delivering just 1,497 tCO₂e of reduction against a required 7,283 per year, the pace needs to accelerate nearly 5x. At current trajectory, the 2030 Climate Positive commitment is at risk.
+Infosys needs to reduce Scope 1+2 by a further 65.31% from FY26 levels to hit their 2030 target of approximately 15,900 tCO₂e. With only 4 years remaining and FY26 delivering just 1,497 tCO₂e of reduction against a required 7,483 per year, the pace needs to accelerate roughly 5x. At current trajectory, the 2030 Climate Positive commitment is at risk.
 
 ### 6. Water Efficiency — Post-COVID Recovery Incomplete
 Water consumption per employee spiked 58.61% in FY23 as campuses reopened. Despite two consecutive years of reduction, Infosys in FY26 still consumes 42% more water per employee than FY22 levels. Post-COVID water efficiency has not been recovered.
 
 ### 7. Scope 3 — Return to Office is the Biggest ESG Risk
-Employee commute emissions grew 1,165% from FY22 to FY26. Business travel grew 160%. Together these two people-movement categories account for 48.38% of all Scope 3 emissions in FY26. Infosys's return-to-office strategy is directly driving their fastest-growing emission sources. Work from home emissions fell 55% over the same period — but commute growth is far outpacing WFH reduction.
+Employee commute emissions grew 1,165% from FY22 to FY26. Business travel grew 160%. Together these two people-movement categories account for 48.38% of all Scope 3 emissions in FY26. Infosys's return-to-office strategy is directly driving their fastest-growing emission sources. Work from home emissions fell 55% over the same period — but commute growth is far outpacing WFH reduction(see Limitations on boundary changes).
 
 ### 8. What Drove Total Emission Changes
 In FY23 and FY24, Scope 3 growth overwhelmed Scope 1+2 reductions, causing total emissions to rise despite renewable progress. The turning point was FY25 when renewable procurement finally drove Scope 2 down fast enough — with Scope 1+2 responsible for 82% of total emission reduction that year. FY26 shows both scopes contributing roughly equally to a much smaller total reduction.
@@ -92,7 +92,7 @@ In FY23 and FY24, Scope 3 growth overwhelmed Scope 1+2 reductions, causing total
 
 Based on the findings of this analysis, the following actions are recommended for Infosys to strengthen its Net Zero 2030 trajectory:
 
-1. **Accelerate Scope 1+2 reduction pace immediately.** At current trajectory, Infosys needs to reduce Scope 1+2 emissions nearly 5x faster than FY26 performance to hit the 2030 target of 16,700 tCO₂e. Renewable energy procurement alone will be insufficient — direct emission reduction measures for owned facilities and fuel consumption must be prioritised.
+1. **Accelerate Scope 1+2 reduction pace immediately.** At current trajectory, Infosys needs to reduce Scope 1+2 emissions roughly 5x faster than FY26 performance to hit the 2030 target of 15,900 tCO₂e. Renewable energy procurement alone will be insufficient — direct emission reduction measures for owned facilities and fuel consumption must be prioritised.
 
 2. **Introduce a structured business travel policy with carbon budgets.** Business travel is the single largest Scope 3 category at 26.92% of total Scope 3 in FY26, having grown 160% since FY22. Introducing per-employee or per-business-unit carbon budgets for travel, alongside mandatory virtual-first meeting policies for domestic travel, would directly address the largest controllable Scope 3 source.
 
@@ -110,7 +110,8 @@ Based on the findings of this analysis, the following actions are recommended fo
 - Emission factors and calculation methodologies may change between reporting years, affecting comparability.
 - Scope 3 figures for FY24 and FY25 were restated in the FY26 Data Book due to the addition of the Purchased Goods and Services category. Earlier Data Books show different figures for the same years.
 - Scope 2 emissions are reported on a market-based basis. Location-based figures are only available for FY26, limiting year-on-year location-based comparison.
-- Employee commute boundary expanded over the analysis period — earlier years cover fewer geographies, understating true commute emissions in FY22 and FY23.
+- Employee commute emissions may be affected by changes in reporting boundary across years, and FY22 commute figures were affected by widespread work-from-home. The 1,165% growth from FY22 to FY26 therefore reflects both a real return to office and possible changes in what was counted, and the two cannot be separated from the public data.
+- The 2030 target of approximately 15,900 tCO₂e is back-calculated from Infosys's reported 71.22% reduction against its 2020 baseline, applying their stated 90% reduction goal. It is an estimate, not a figure Infosys publishes directly.
 - This analysis assumes Infosys's reported data is accurate and has been verified by their external assurance providers.
 
 ---
