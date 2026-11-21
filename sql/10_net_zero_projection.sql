@@ -12,8 +12,8 @@ WITH future AS (
     SELECT 'FY30', 4
 )
 SELECT year_number, fiscal_year,
-    45834 - (7283.5 * year_number) AS required_emissions,
-    (45834 - (7283.5 * year_number)) - 15900 AS remaining_gap,
-    ROUND((7283.5 * year_number * 100.0) / 45834, 2) AS percent_reduction
+    45834 - (7483.5 * year_number) AS required_emissions,
+    (45834 - (7483.5 * year_number)) - 15900 AS remaining_gap,
+    ROUND((7483.5 * year_number * 100.0) / 45834, 2) AS percent_reduction
 FROM future
 ORDER BY year_number ASC;
