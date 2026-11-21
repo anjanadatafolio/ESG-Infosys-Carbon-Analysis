@@ -5,8 +5,8 @@
 
 WITH gap_calc AS (
     SELECT fiscal_year, scope12_total_tco2e,
-        16700 AS target_2030,
-        (scope12_total_tco2e - 16700) AS target_gap
+        15900 AS target_2030,
+        (scope12_total_tco2e - 15900) AS target_gap
     FROM esg_infosys
 )
 SELECT fiscal_year, scope12_total_tco2e, target_2030, target_gap,
